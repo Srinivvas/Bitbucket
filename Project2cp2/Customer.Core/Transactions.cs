@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.ComponentModel.DataAnnotations;
 
-namespace Customer.Core
+namespace CustomerApp.Core
 {
     public class Transactions
     {

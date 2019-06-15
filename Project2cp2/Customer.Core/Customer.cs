@@ -7,7 +7,7 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 
-namespace Customer.Core
+namespace CustomerApp.Core
 {
    public class Customer
     {
